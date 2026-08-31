@@ -1,7 +1,6 @@
 import matematika as mtk
 import bangun_ruang as br
 
-
 pilihan = [
     'cek bilangan prima',
     'akar bilangan',
